@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishtries
+- 👋 Hi, I’m Manish
 - 👀 I’m interested in DevOps, Identity and Access Management
-- 🌱 I’m currently learning Cloud Security 
+- 🌱 I’m currently Learning Cloud Security 
 - 📫 How to reach me manishtries@gmail(dot)com
